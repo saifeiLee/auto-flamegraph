@@ -5,4 +5,4 @@
 <!-- ## 环境准备 -->
 
 ## 使用方式
-./auto-flame <executable-program-path>
+./auto-flame your_program [your_program_args]
