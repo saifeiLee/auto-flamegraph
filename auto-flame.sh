@@ -72,7 +72,7 @@ run() {
     $StackCollapseCmd perf.data.txt > perf.floded
     $FlameGraphCmd perf.floded > result.svg
     cd -
-    echo "Done! The dir is: $dir_name"
+    echo "Done! The result directory is: $dir_name"
 }
 
 prepare
